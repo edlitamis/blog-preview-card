@@ -17,7 +17,7 @@ This is a solution to the [ Blog preview card challenge on Frontend Mentor](http
 
 ## Links
 
-- Live Site URL: [text](link)
+- Live Site URL: [https://edlitamis.github.io/blog-preview-card/](https://edlitamis.github.io/blog-preview-card/)
 
 ## Built with
 
